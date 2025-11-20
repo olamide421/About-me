@@ -1,5 +1,4 @@
-Here is your **GitHub Profile README**, beautifully formatted, professional, and tailored to your exact skills as a Machine Learning & AI Engineer.
-You can paste this directly into your `README.md` on your GitHub profile.
+
 
 ---
 
